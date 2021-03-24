@@ -1,0 +1,11 @@
+{
+    "salmon_version": "0.9.1",
+    "threads": "8",
+    "libType": "ISR",
+    "numBootstraps": "100",
+    "index": "/c2d2/people/kn675/betsy_pownall/gideon_hughes/reference/GRCz11_rna",
+    "output": "GH6",
+    "mates1": "/c2d2/people/kn675/betsy_pownall/gideon_hughes/reads/trimmed/GH6_S41_L004_R1_001.fastq.gz",
+    "mates2": "/c2d2/people/kn675/betsy_pownall/gideon_hughes/reads/trimmed/GH6_S41_L004_R2_001.fastq.gz",
+    "auxDir": "aux_info"
+}

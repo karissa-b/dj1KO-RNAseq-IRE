@@ -1,0 +1,21 @@
+{
+    "read_files": "( /c2d2/people/kn675/betsy_pownall/gideon_hughes/reads/trimmed/GH6_S41_L004_R1_001.fastq.gz, /c2d2/people/kn675/betsy_pownall/gideon_hughes/reads/trimmed/GH6_S41_L004_R2_001.fastq.gz )",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 0.9455085989927325,
+    "num_compatible_fragments": 35666343,
+    "num_assigned_fragments": 37721860,
+    "num_consistent_mappings": 95801209,
+    "num_inconsistent_mappings": 4934042,
+    "MSF": 0,
+    "OSF": 874,
+    "ISF": 1465655,
+    "MSR": 0,
+    "OSR": 40125,
+    "ISR": 95801209,
+    "SF": 819272,
+    "SR": 2594839,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
